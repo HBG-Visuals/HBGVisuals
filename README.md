@@ -1,2 +1,0 @@
-# HBGVisuals
-HBG Visuals Website
